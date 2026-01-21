@@ -47,11 +47,11 @@ https://www.eniun.com/wp-content/uploads/ENIUNCreatividadSeo.png
 
 ● Artículos:
 
-https://www.eniun.com/wp-content/uploads/factores-clave-para-el-SEO.png
+![Articulo 1](/images/articulo1.png)
 
-https://www.eniun.com/wp-content/uploads/contenido-incrustado.png
+![Articulo 2](/images/articulo2.png)
 
-https://www.eniun.com/wp-content/uploads/test-de-verificacion-html-y-herramientas-utiles.png
+![Articulo 3](/images/articulo3.png)
 
 
 Móvil
